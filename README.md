@@ -1,2 +1,2 @@
-# solid-node-ts
-Projeto de Estudo Node com TS
+# solid
+Alura's course project about SOLID using TypeScript
